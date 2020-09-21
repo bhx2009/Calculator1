@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GPA_buh2_Calculator</string>
+    <string name="Title">GPA Calculator</string>
+    <string name="Rule">Enter \"0\" if you do not have a grade</string>
+    <string name="CurrentGrade">Current Grade:</string>
+    <string name="DefaultGrade">0.0</string>
+    <string name="CurrentGPA">Your GPA is:</string>
+    <string name="DefaultGPA">Pending</string>
+    <string name="A">\" A \"</string>
+    <string name="Keep">Great job, keep it up</string>
+    <string name="B">\" B \"</string>
+    <string name="AlmostA">Move on</string>
+    <string name="C">\" C \"</string>
+    <string name="WorkHard">Work harder</string>
+    <string name="D">\" D \"</string>
+    <string name="F">\" F \"</string>
+    <string name="Grade">Grade</string>
+    <string name="One">#1</string>
+    <string name="Course1">Course 1</string>
+    <string name="Two">#2</string>
+    <string name="Course2">Course 2</string>
+    <string name="Three">#3</string>
+    <string name="Course3">Course 3</string>
+    <string name="Four">#4</string>
+    <string name="Course4">Course 4</string>
+    <string name="Five">#5</string>
+    <string name="Course5">Course 5</string>
+    <string name="Six">#6</string>
+    <string name="Course6">Course 6</string>
+    <string name="Calculate">Compute GPA</string>
+    <string name="Clear">Clear All</string>
+    <string name="Fill">You need to fill all grades, enter \"0\" if no grade.</string>
+    <string name="AboveGrade">The maximum grade is 100</string>
+
+</resources>
